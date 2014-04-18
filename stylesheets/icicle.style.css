@@ -1,0 +1,9 @@
+#wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+#chart {
+  display: inline-block;
+  text-align : center;
+}

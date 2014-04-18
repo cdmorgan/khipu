@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>Khipu Data</title>
+		<meta name="description" content="A visualisation of Nasca Khipus.">
+		<style>
+			@import url(./stylesheets/sunburst.style.css);
+			path {
+				stroke: #000;
+				stroke-width: 1.5;
+				cursor: pointer;
+			}
+
+			text {
+				font: 11px sans-serif;
+				cursor: pointer;
+			}
+
+			body {
+				width: 880px;
+				margin: 0 auto;
+			}
+
+			h1, #buttonDiv {
+				text-align: center;
+				margin: .5em 0;
+			}
+			
+			#header {
+				text-decoration: underline;
+			}
+		</style>
+		<script src="./lib/jquery-2.0.3.js"></script>
+		<script>
+			$(function() {
+				$('button').on("click", function() {
+					$("#vis").empty();
+					$("#header").html(this.id);
+					showVis(this.id);
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<h1 id="header">Nasca Khipus</h1>
+		<div id="buttonDiv">
+			<button id="UR040">
+				UR040
+			</button>&ensp;
+			<button id="UR1032">
+				UR1032
+			</button>&ensp;
+			<button id="UR1127">
+				UR1127
+			</button>&ensp;
+			<button id="UR1136">
+				UR1136
+			</button>&ensp;
+			<button id="UR114">
+				UR114
+			</button>&ensp;
+			<button id="UR1140">
+				UR1140
+			</button>&ensp;
+			<button id="UR1176">
+				UR1176
+			</button>&ensp;
+			<button id="UR121">
+				UR121
+			</button>&ensp;
+			<button id="UR122">
+				UR122
+			</button>
+		</div>
+		<div id="vis"></div>
+		<script src="./lib/algorithm.js"></script>
+		<script src="./lib/d3.v3.js"></script>
+		<script src="./lib/sunburst.background.js"></script>
+	</body>
+</html>

@@ -1,0 +1,301 @@
+{
+	"name": "UR040",
+	"children": [
+		{
+			"name": "1",
+			"children": [
+				{
+					"name": "1",
+					"length": 22,
+					"color": "#FFFFFF",
+					"values": null
+				}, {
+					"name": "2",
+					"length": 20.5,
+					"color": "#8C7962",
+					"values": null
+				}, {
+					"name": "3",
+					"length": 29,
+					"color": "#FFFFFF",
+					"values": null
+				}, {
+					"name": "4",
+					"length": 26,
+					"color": "#8C7962",
+					"values": null
+				}, {
+					"name": "5",
+					"length": 30,
+					"color": "#FFFFFF",
+					"values": 3
+				}
+			]
+		}, {
+			"name": "2",
+			"children": [
+				{
+					"name": "6",
+					"length": 27.5,
+					"color": "#FFFFFF",
+					"values": 1
+				}, {
+					"name": "7",
+					"length": 23,
+					"color": "#8C7962",
+					"values": null,
+					"children": [
+						{
+							"name": "7s1",
+							"length": 14,
+							"color": "#261C0F",
+							"values": 3
+						}
+					]
+				}, {
+					"name": "8",
+					"length": 30,
+					"color": "#FFFFFF",
+					"values": 2
+				}, {
+					"name": "9",
+					"length": 28,
+					"color": "#8C7962",
+					"values": null,
+					"children": [
+						{
+							"name": "9s1",
+							"length": 14,
+							"color": "#594E41",
+							"values": 4
+						}, {
+							"name": "9s2",
+							"length": 8.5,
+							"color": "#000000",
+							"values": 10
+						}
+					]
+				}, {
+					"name": "10",
+					"length": 31,
+					"color": "#FFFFFF",
+					"values": null
+				}, {
+					"name": "11",
+					"length": 35,
+					"color": "#8C7962",
+					"values": null
+				}, {
+					"name": "12",
+					"length": 32,
+					"color": "#FFFFFF",
+					"values": null
+				}, {
+					"name": "13",
+					"length": 35,
+					"color": "#8C7962",
+					"values": null,
+					"children": [
+						{
+							"name": "13s1",
+							"length": 18,
+							"color": "#261C0F",
+							"values": 2
+						}, {
+							"name": "13s2",
+							"length": 12,
+							"color": "#8C7962",
+							"values": 1
+						}
+					]
+				}, {
+					"name": "14",
+					"length": 23,
+					"color": "#FFFFFF",
+					"values": null
+				}, {
+					"name": "15",
+					"length": 21,
+					"color": "#8C7962",
+					"values": null,
+					"children": [
+						{
+							"name": "15s1",
+							"length": 18.5,
+							"color": "#261C0F",
+							"values": null
+						}, {
+							"name": "15s2",
+							"length": 14.5,
+							"color": "#8C7962",
+							"values": null
+						}
+					]
+				}, {
+					"name": "16",
+					"length": 25,
+					"color": "#FFFFFF",
+					"values": 2
+				}, {
+					"name": "17",
+					"length": 28,
+					"color": "#8C7962",
+					"values": null,
+					"children": [
+						{
+							"name": "17s1",
+							"length": 18,
+							"color": "#261C0F",
+							"values": 4
+						}, {
+							"name": "17s2",
+							"length": 11,
+							"color": "#594E41",
+							"values": 4
+						}
+					]
+				}
+			]
+		}, {
+			"name": "3",
+			"children": [
+				{
+					"name": "18",
+					"length": 21,
+					"color": "#FFFFFF",
+					"values": 6
+				}, {
+					"name": "19",
+					"length": 24,
+					"color": "#8C7962",
+					"values": 5,
+					"children": [
+						{
+							"name": "19s1",
+							"length": 8,
+							"color": "#8C7962",
+							"values": 3
+						}, {
+							"name": "19s2",
+							"length": 14,
+							"color": "#261C0F",
+							"values": 8
+						}, {
+							"name": "19s3",
+							"length": 14.5,
+							"color": "#FFFFFF",
+							"values": 5
+						}
+					]
+				}, {
+					"name": "20",
+					"length": 23,
+					"color": "#FFFFFF",
+					"values": 3
+				}, {
+					"name": "21",
+					"length": 23,
+					"color": "#8C7962",
+					"values": 21,
+					"children": [
+						{
+							"name": "21s1",
+							"length": 17.5,
+							"color": "#261C0F",
+							"values": 5
+						}
+					]
+				}, {
+					"name": "22",
+					"length": 25.5,
+					"color": "#FFFFFF",
+					"values": 2
+				}, {
+					"name": "23",
+					"length": 24.5,
+					"color": "#8C7962",
+					"values": null,
+					"children": [
+						{
+							"name": "23s1",
+							"length": 29,
+							"color": "#FFFFFF",
+							"values": 3
+						}
+					]
+				}, {
+					"name": "24",
+					"length": 26,
+					"color": "#FFFFFF",
+					"values": null
+				}, {
+					"name": "25",
+					"length": 24.5,
+					"color": "#8C7962",
+					"values": null,
+					"children": [
+						{
+							"name": "25s1",
+							"length": 12,
+							"color": "#261C0F",
+							"values": 9
+						}
+					]
+				}, {
+					"name": "26",
+					"length": 25,
+					"color": "#FFFFFF",
+					"values": null
+				}, {
+					"name": "27",
+					"length": 24,
+					"color": "#8C7962",
+					"values": null
+				}, {
+					"name": "28",
+					"length": 24,
+					"color": "#FFFFFF",
+					"values": null
+				}, {
+					"name": "29",
+					"length": 27.5,
+					"color": "#8C7962",
+					"values": null,
+					"children": [
+						{
+							"name": "29s1",
+							"length": 15,
+							"color": "#261C0F",
+							"values": 7
+						}
+					]
+				}
+			]
+		}, {
+			"name": "4",
+			"children": [
+				{
+					"name": "30",
+					"length": 30,
+					"color": "#FFFFFF",
+					"values": null
+				}, {
+					"name": "31",
+					"length": 29.5,
+					"color": "#FFFFFF",
+					"values": null
+				}, {
+					"name": "32",
+					"length": 30,
+					"color": "#FFFFFF",
+					"values": null
+				}, {
+					"name": "33",
+					"length": 31,
+					"color": "#FFFFFF",
+					"values": null
+				}
+			]
+		}
+	]
+}
